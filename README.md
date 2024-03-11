@@ -1,5 +1,4 @@
 <h1>OSRuO 2023/2024 - Vjezbe - Grupa A2</h1>
-<a href="#"><img width="100%" height="auto" src="https://mobilnisvijet.me/storage/vijesti/GitHub%20slika-1593437690.jp" height="175px"/></a>
 
 <h4>Upoznavanje sa predmetnim asistentom, studentima i pregledom nastavnog materijala i aktivnostima</h4>
 <h4>Konfiguracija Git i GitHub naloga</h4>
