@@ -7,14 +7,14 @@
 <p></p>
 <p></p>
 
-<h6>Struktura nastavne aktivnosti na vježbama:</h6>
+### Struktura nastavne aktivnosti na vježbama
 <h6>1.Dva testa u toku semestra: Ukupno 10 bodova </h6>
 <h6>2.Zavrsni projekat: Ukupno 20 bodova </h6>
 <h6>3.Prisustvo: Ukupno 10 bodova </h6>
 
 
 
-<h5>MATERIJAI ĆE SVAKAKO BITI POSTAVLJENI NA OBAVEZNU PLATFORMU Google Classrom</h5>
+### MATERIJAI ĆE SVAKAKO BITI POSTAVLJENI NA OBAVEZNU PLATFORMU Google Classrom
 
 
 
